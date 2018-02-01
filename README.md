@@ -8,13 +8,15 @@ The original extension was written by François Beauort and the source can be fo
 You can find the official Chrome Extension (Françoi' version) in the Chrome Web Store at https://chrome.google.com/webstore/detail/kimlaecdbfehihbiieeaeelbdkahophn
 
 
-I forked this extension because my daily driver is a ChromeBook and the original extension was configured to use the key combination "Alt+Shift+P" as pause, but Google recently mapped "Stylus tools" on that key combination and the extension doesn't allow me to remap.
+I forked this extension because my daily driver is a ChromeBook and the original extension was configured to use the key combination "Alt+Shift+P" as pause, but Google recently mapped "Stylus tools" on that key combination and the extension doesn't allow me to remap. So, I simply took the original code and remapped the keys.
 
 The current mappings:
 
-Pause: "Alt+Shift+V"
-Previous track: "Alt+Shift+<"
-Next track: "Alt+Shift+>"
+Pause: "Ctrl+Shift+M"
+
+Previous track: "Ctrl+Shift+<"
+
+Next track: "Ctrl+Shift+>"
 
 
-At the time of writing I have no idea how to map the / (slash) as "suggested_key" within the manifest.json, but I'll look it up when I have time.
+I wish it were possible to map the /-key but that key isn't supported. And somehow the spacebare is supported but it doesn't work on my ChromeBook. Still, this works just fine for me, hope it also does that for you :-).
