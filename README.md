@@ -20,3 +20,7 @@ Next track: "Ctrl+Shift+>"
 
 
 I wish it were possible to map the /-key but that key isn't supported. And somehow the spacebare is supported but it doesn't work on my ChromeBook. Still, this works just fine for me, hope it also does that for you :-).
+
+UPDATE: Things seem to be broken: "Ctrl+Shift+M" and "Ctrl+Shift+<" don't work anymore. I'm trying to find a solution to this problem but I can't find anything about another key being in use.
+If you want do do your own investigation, you might like "chrome://keyboardoverlay/" to see what key combinations do. You used to be able to call this overlay with "Ctrl+Alt+/" but this has been replaced with a window that gives you more of an overview of general functions (not useful in this case).
+
