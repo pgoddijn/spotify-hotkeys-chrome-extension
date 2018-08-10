@@ -1,7 +1,7 @@
 Forked Spotify Web Player Hotkeys Chrome Extension
 ==================================================
 
-This is a fork of the Spotify Web Player Hotkeys, which is a Chrome Extension that adds keyboard shortcuts to Chrome to pause, play next and previous tracks in [Spotify Web Player](https://play.spotify.com).
+This is a fork of the Spotify Web Player Hotkeys, which is a Chrome Extension that adds keyboard shortcuts to Chrome to pause, play next and previous tracks in [Spotify Web Player](https://open.spotify.com).
 
 The original extension was written by François Beauort and the source can be found here: https://github.com/beaufortfrancois/spotify-hotkeys-chrome-extension
 
